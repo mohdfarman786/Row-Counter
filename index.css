@@ -10,10 +10,10 @@ body {
    background: white;
     max-width: 80%;
     margin: auto;
-    border: 8px solid black;
+    border: 20px solid black;
     border-radius: 10px;
     background-color: transparent;
-    margin-top: 400px;
+    margin-top: 600px;
 }
 
 h1 {
