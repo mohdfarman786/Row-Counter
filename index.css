@@ -15,12 +15,7 @@ body {
     background: rgba(255, 255, 255, 0.133);
     backdrop-filter: blur(3px);
     box-shadow: 0 0 6px 0 rgba(29, 29, 29, 0.203);
-    margin-top: 500px;
-}
-
-#display{
-    display: flex;
-    display: block;
+    margin-top: 300px;
 }
 
 h1 {
